@@ -1,0 +1,40 @@
+﻿<Window x:Class="Base.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow"  Height="575" Width="796" Closing="MainWindow_Closing" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" Background="Transparent">
+    <Border BorderThickness="5" BorderBrush="#FFF2E9E9">
+        <DockPanel>
+            <Menu DockPanel.Dock="Top" VerticalAlignment="Top" Height="33" FontSize="16">
+                <MenuItem Header="Таблица">
+                 
+                    <MenuItem Command="Open" Header="Открыть таблицу" ToolTip="Открытие таблицы" />
+                    <MenuItem Header="Проанализировать" ToolTip="Анализ открытой таблицы" Click="StartAnalize_Click" />
+                    <MenuItem Command="Close" Header="Выход" ToolTip="Выход из приложения"/>
+
+                </MenuItem>
+                <MenuItem Header="Справка">
+                    
+                </MenuItem>
+                <MenuItem Header="О программе">
+
+                </MenuItem>
+            </Menu>
+            <Grid DockPanel.Dock="Top">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Name="txtBDName" Text="Наименование" Margin="10" FontFamily="Comic Sans MS" Foreground="Blue" FontSize="18"/>
+                <TextBlock Grid.Column="2" Name="txtTableName" Text="Таблица" Margin="10,10,30,0" FontFamily="Comic Sans MS" Foreground="Orange" FontSize="18"/>
+            </Grid>
+            <StatusBar DockPanel.Dock="Bottom" VerticalAlignment="Bottom" Height="23" >
+            </StatusBar>
+            <Grid>
+                <DataGrid Name="mainDataGrid" AutoGenerateColumns="True" CanUserAddRows="False" CanUserDeleteRows="False" CanUserReorderColumns="False" CanUserSortColumns="False" ColumnWidth="*"/>
+                
+                
+            </Grid>
+        </DockPanel>
+    </Border>
+</Window>
