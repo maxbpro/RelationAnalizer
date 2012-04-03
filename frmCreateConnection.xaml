@@ -1,0 +1,55 @@
+﻿<Window x:Class="Base.frmCreateConnection"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Подключение к базе данных" Height="416" Width="480" WindowStyle="ToolWindow" Loaded="Window_Loaded" ResizeMode="NoResize"
+         WindowStartupLocation="CenterScreen" Background="Transparent">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="52" />
+            <RowDefinition Height="48" />
+        </Grid.RowDefinitions>
+        <TextBlock Text="Имя сервера" Margin="20,0,0,0" VerticalAlignment="Center"/>
+        <TextBlock Text="Имя базы данных" Margin="20,0,0,0" VerticalAlignment="Center" Grid.Row="2"/>
+        <TextBlock Text="Имя пользователя" Margin="20,0,0,0" VerticalAlignment="Center" Grid.Row="3"/>
+        <TextBlock Text="Пароль" Margin="20,0,0,0" VerticalAlignment="Center" Grid.Row="4"/>
+        <TextBlock Text="Время ожидания соединения" Margin="20,0,0,0" VerticalAlignment="Center" Grid.Row="5"/>
+        <TextBlock Text="Время ожидания выполнения" Margin="20,0,0,0" VerticalAlignment="Center" Grid.Row="6"/>
+        <TextBlock Text="Имя таблицы для анализа" Margin="20,10" Grid.Row="7"/>
+        <ComboBox Name="cmbDataSource" IsEditable="True" Margin="10,5" Grid.Column="1" ToolTip="Имя или сетевой адрес экземпляра SQL Server, к которому осуществляется подключение">
+            <ComboBoxItem>(local)\SQLEXPRESS</ComboBoxItem>
+        </ComboBox>
+        <CheckBox Name="chcIntegratedSecurity" Content=" Не использовать Integrated Security" Margin="20,5"  IsChecked="False"  
+                  Grid.Row="1" Grid.Column="0" Grid.ColumnSpan="2"  ToolTip="Определяет, заданы ли в подключении идентификатор пользователя и пароль"/>
+        <TextBox Name="txtBD"  Margin="10"  Grid.Row="2" Grid.Column="1" />
+        <TextBox Name="txtuser"  Margin="10" IsEnabled="{Binding ElementName=chcIntegratedSecurity, Path=IsChecked}"  Grid.Row="3" Grid.Column="1" />
+        <PasswordBox Name="password" Margin="10,5" IsEnabled="{Binding ElementName=chcIntegratedSecurity, Path=IsChecked}"  Grid.Row="4" Grid.Column="1"  />
+        <ComboBox Name="cmbTimeWaitCon" IsEditable="True" Margin="10,5" Grid.Column="1" Grid.Row="5"
+                  ToolTip="Продолжительность времени ожидания подключения к серверу (в сек.)"/>
+        <ComboBox Name="cmbTimeWaitExecute" IsEditable="True" Margin="10,5" Grid.Column="1" Grid.Row="6" 
+                  ToolTip="Минимальное времени ожидания перед уничтожением подключения (в сек.)"/>
+        <CheckBox Name="chcIncript" Content="Шифровать соединение" Margin="20,10"  IsChecked="False"  
+                  Grid.Row="8" Grid.Column="0" Grid.ColumnSpan="2" ToolTip="Определяет, использует ли SQL Server шифрование SSL для всех данных"/>
+        
+        <TextBox Name="TableName"  Grid.Row="7" Grid.Column="1" Margin="10,10" Height="20" />
+
+        <StackPanel Orientation="Horizontal" Margin="0,15" Grid.Row="8" Grid.ColumnSpan="2" HorizontalAlignment="Left" Width="465" Grid.RowSpan="2">
+            <Button Name="Test" Content="Проверить подключение" Height="30" Width="195" Margin="20,25" 
+                    Click="Test_Click" ToolTip="Попытка открыть подключение" />
+            <Button Name="btnCreateBase" Height="30" Content="Подключиться" IsDefault="True" Margin="50,35" Width="150" 
+                    Click="btnCreateConnection_Click" ToolTip="Подключение к базе данных" />
+        </StackPanel>
+    </Grid>
+</Window>
