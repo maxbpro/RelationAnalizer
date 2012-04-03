@@ -154,6 +154,27 @@ namespace Base
                 return false;
         }
 
+        public bool IsBoiseForm(int key1, int key2, int keyTotal)
+        {
+            bool flag = true;
+            if (IsFunctialDepended(key1, key2))
+            {
+                flag = false;
+                winReplace win = new winReplace(dTable.Columns[keyTotal].ColumnName,
+                    dTable.Columns[key1].ColumnName, dTable.Columns[key2].ColumnName, null);
+                win.ShowDialog();
+            }
+            if (IsFunctialDepended(key2, key1))
+            {
+                flag = false;
+                winReplace win = new winReplace(dTable.Columns[keyTotal].ColumnName,
+                    dTable.Columns[key2].ColumnName, dTable.Columns[key1].ColumnName, null);
+                win.ShowDialog();
+            }
+
+            return flag;
+        }
+
 
         private bool IsFunctialDepended(int indexX, int indexY)
         {
