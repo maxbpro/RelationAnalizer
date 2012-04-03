@@ -91,6 +91,69 @@ namespace Base
             }
         }
         
+        // Key is simple
+        public bool IsThreeForm(int indexPrimaryKey)
+        {
+            bool flag = true;
+
+            for (int i = 0; i < columnNum; i++)
+            {
+                if (i == indexPrimaryKey)
+                    continue;
+
+                for (int j = 0; j < columnNum; j++)
+                {
+                    if (j != i && j != indexPrimaryKey) // пропускаем сравнение с самим собой и id
+                    {
+                        if (IsFunctialDepended(i, j))
+                        {
+                            flag = false;
+                            winReplace win = new winReplace(dTable.Columns[indexPrimaryKey].ColumnName,
+                                dTable.Columns[i].ColumnName, dTable.Columns[j].ColumnName);
+                            win.ShowDialog();
+                        }
+                    }
+                }
+            }
+            if (flag)
+                return true;
+            else
+                return false;
+        }
+        //Key is complex
+        public bool IsThreeForm(List<int> keys)
+        {
+            bool flag = true;
+            List<string> keysName = new List<string>();
+            for (int j = 0; j < keys.Count; j++)
+            {
+                keysName.Add(dTable.Columns[keys[j]].ToString());
+            }
+            for (int i = 0; i < columnNum; i++)
+            {
+                if(keys.Contains(i))
+                    continue;
+
+                for (int j = 0; j < columnNum; j++)
+                {
+                    if (j != i && !keys.Contains(j)) // пропускаем сравнение с самим собой и частями составного ключа
+                    {
+                        if (IsFunctialDepended(i, j))
+                        {
+                            flag = false;
+                            winReplace win = new winReplace(keysName,
+                                dTable.Columns[i].ColumnName, dTable.Columns[j].ColumnName, null);
+                            win.ShowDialog();
+                        }
+                    }
+                }
+            }
+            if (flag)
+                return true;
+            else
+                return false;
+        }
+
 
         private bool IsFunctialDepended(int indexX, int indexY)
         {
