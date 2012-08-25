@@ -1,0 +1,210 @@
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\bin\Debug\Base.exe
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\bin\Debug\Base.pdb
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\ResolveAssemblyReference.cache
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\MainWindow.baml
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\App.baml
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\MainWindow.g.cs
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\App.g.cs
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\Base_MarkupCompile.cache
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\Base.g.resources
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\Base.Properties.Resources.resources
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\GenerateResource.read.1.tlog
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\GenerateResource.write.1.tlog
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\Base.exe
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\Base.pdb
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\CreateNewBaseTables.baml
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\EnterNameOfNewBase.baml
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\CreateNewBaseTables.g.cs
+g:\users\maxb\documents\visual studio 2010\Projects\Base\Base\obj\x86\Debug\EnterNameOfNewBase.g.cs
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmChooseTables.baml
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmCreateRelation.baml
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmChooseTables.g.cs
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmCreateRelation.g.cs
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmFillTables.baml
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmFillTables.g.cs
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmSerialization.baml
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmSerialization.g.cs
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmSetupRelation.baml
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmSetupRelation.g.cs
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmOpenBase.baml
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmOpenBase.g.cs
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmChangingProjectTable.baml
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmChangingProjectTable.g.cs
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmMessageBox.baml
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmMessageBox.g.cs
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmInfoWithOneButton.baml
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmInfoWithOneButton.g.cs
+F:\Base\Base\obj\x86\Debug\Base.exe
+F:\Base\Base\obj\x86\Debug\Base.pdb
+F:\Base\Base\bin\Debug\Base.exe
+F:\Base\Base\bin\Debug\Base.pdb
+F:\Base\Base\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Base\Base\obj\x86\Debug\CreateNewBaseTables.baml
+F:\Base\Base\obj\x86\Debug\EnterNameOfNewBase.baml
+F:\Base\Base\obj\x86\Debug\frmChangingProjectTable.baml
+F:\Base\Base\obj\x86\Debug\frmChooseTables.baml
+F:\Base\Base\obj\x86\Debug\frmCreateRelation.baml
+F:\Base\Base\obj\x86\Debug\frmFillTables.baml
+F:\Base\Base\obj\x86\Debug\frmInfoWithOneButton.baml
+F:\Base\Base\obj\x86\Debug\frmMessageBox.baml
+F:\Base\Base\obj\x86\Debug\frmOpenBase.baml
+F:\Base\Base\obj\x86\Debug\frmSerialization.baml
+F:\Base\Base\obj\x86\Debug\frmSetupRelation.baml
+F:\Base\Base\obj\x86\Debug\MainWindow.baml
+F:\Base\Base\obj\x86\Debug\App.baml
+F:\Base\Base\obj\x86\Debug\CreateNewBaseTables.g.cs
+F:\Base\Base\obj\x86\Debug\EnterNameOfNewBase.g.cs
+F:\Base\Base\obj\x86\Debug\frmChangingProjectTable.g.cs
+F:\Base\Base\obj\x86\Debug\frmChooseTables.g.cs
+F:\Base\Base\obj\x86\Debug\frmCreateRelation.g.cs
+F:\Base\Base\obj\x86\Debug\frmFillTables.g.cs
+F:\Base\Base\obj\x86\Debug\frmInfoWithOneButton.g.cs
+F:\Base\Base\obj\x86\Debug\frmMessageBox.g.cs
+F:\Base\Base\obj\x86\Debug\frmOpenBase.g.cs
+F:\Base\Base\obj\x86\Debug\frmSerialization.g.cs
+F:\Base\Base\obj\x86\Debug\frmSetupRelation.g.cs
+F:\Base\Base\obj\x86\Debug\MainWindow.g.cs
+F:\Base\Base\obj\x86\Debug\App.g.cs
+F:\Base\Base\obj\x86\Debug\Base_MarkupCompile.cache
+F:\Base\Base\obj\x86\Debug\Base.g.resources
+F:\Base\Base\obj\x86\Debug\Base.Properties.Resources.resources
+F:\Base\Base\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Base\Base\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Base\Base\obj\x86\Debug\frmCreateConnection.baml
+F:\Base\Base\obj\x86\Debug\frmCreateConnection.g.cs
+F:\Base\Base\obj\x86\Debug\frmCreateSqlTable.baml
+F:\Base\Base\obj\x86\Debug\frmCreateSqlTable.g.cs
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmCreateConnection.baml
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmCreateSqlTable.baml
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmCreateConnection.g.cs
+G:\Users\MaxB\Documents\Visual Studio 2010\Projects\Base\Base\obj\x86\Debug\frmCreateSqlTable.g.cs
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\Base.exe
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\Base.pdb
+C:\Users\MaxB\Desktop\Base\Base\bin\Debug\Base.exe
+C:\Users\MaxB\Desktop\Base\Base\bin\Debug\Base.pdb
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\frmCreateConnection.baml
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\frmMessageBox.baml
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\MainWindow.baml
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\App.baml
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\frmCreateConnection.g.cs
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\frmMessageBox.g.cs
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\App.g.cs
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\Base_MarkupCompile.cache
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\Base.g.resources
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\Base.Properties.Resources.resources
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\Attention.baml
+C:\Users\MaxB\Desktop\Base\Base\obj\x86\Debug\Attention.g.cs
+J:\TableAnalizer\Base\obj\x86\Debug\Base.exe
+J:\TableAnalizer\Base\obj\x86\Debug\Base.pdb
+J:\TableAnalizer\Base\bin\Debug\Base.exe
+J:\TableAnalizer\Base\bin\Debug\Base.pdb
+J:\TableAnalizer\Base\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\TableAnalizer\Base\obj\x86\Debug\Attention.baml
+J:\TableAnalizer\Base\obj\x86\Debug\frmCreateConnection.baml
+J:\TableAnalizer\Base\obj\x86\Debug\frmMessageBox.baml
+J:\TableAnalizer\Base\obj\x86\Debug\MainWindow.baml
+J:\TableAnalizer\Base\obj\x86\Debug\App.baml
+J:\TableAnalizer\Base\obj\x86\Debug\Attention.g.cs
+J:\TableAnalizer\Base\obj\x86\Debug\frmCreateConnection.g.cs
+J:\TableAnalizer\Base\obj\x86\Debug\frmMessageBox.g.cs
+J:\TableAnalizer\Base\obj\x86\Debug\MainWindow.g.cs
+J:\TableAnalizer\Base\obj\x86\Debug\App.g.cs
+J:\TableAnalizer\Base\obj\x86\Debug\Base_MarkupCompile.cache
+J:\TableAnalizer\Base\obj\x86\Debug\Base.g.resources
+J:\TableAnalizer\Base\obj\x86\Debug\Base.Properties.Resources.resources
+J:\TableAnalizer\Base\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\TableAnalizer\Base\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\TableAnalizer\Base\obj\x86\Debug\Base.exe
+H:\TableAnalizer\Base\obj\x86\Debug\Base.pdb
+H:\TableAnalizer\Base\bin\Debug\Base.exe
+H:\TableAnalizer\Base\bin\Debug\Base.pdb
+H:\TableAnalizer\Base\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\TableAnalizer\Base\obj\x86\Debug\Attention.baml
+H:\TableAnalizer\Base\obj\x86\Debug\frmCreateConnection.baml
+H:\TableAnalizer\Base\obj\x86\Debug\frmMessageBox.baml
+H:\TableAnalizer\Base\obj\x86\Debug\MainWindow.baml
+H:\TableAnalizer\Base\obj\x86\Debug\App.baml
+H:\TableAnalizer\Base\obj\x86\Debug\Attention.g.cs
+H:\TableAnalizer\Base\obj\x86\Debug\frmCreateConnection.g.cs
+H:\TableAnalizer\Base\obj\x86\Debug\frmMessageBox.g.cs
+H:\TableAnalizer\Base\obj\x86\Debug\MainWindow.g.cs
+H:\TableAnalizer\Base\obj\x86\Debug\App.g.cs
+H:\TableAnalizer\Base\obj\x86\Debug\Base_MarkupCompile.cache
+H:\TableAnalizer\Base\obj\x86\Debug\Base.g.resources
+H:\TableAnalizer\Base\obj\x86\Debug\Base.Properties.Resources.resources
+H:\TableAnalizer\Base\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\TableAnalizer\Base\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\Base.exe
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\Base.pdb
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\Base.exe
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\Base.pdb
+F:\Базы данных\TableAnalizer\Base\bin\Debug\Base.exe
+F:\Базы данных\TableAnalizer\Base\bin\Debug\Base.pdb
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\Attention.baml
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\frmCreateConnection.baml
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\frmMessageBox.baml
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\MainWindow.baml
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\winAnalize.baml
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\App.baml
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\Attention.g.cs
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\frmCreateConnection.g.cs
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\frmMessageBox.g.cs
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\MainWindow.g.cs
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\winAnalize.g.cs
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\App.g.cs
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\Base_MarkupCompile.cache
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\Base.g.resources
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\Base.Properties.Resources.resources
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Базы данных\TableAnalizer\Base\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MaxB\Desktop\TableAnalizer\Base\bin\Debug\Base.exe
+C:\Users\MaxB\Desktop\TableAnalizer\Base\bin\Debug\Base.pdb
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\Attention.baml
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\frmCreateConnection.baml
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\frmMessageBox.baml
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\MainWindow.baml
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\winAnalize.baml
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\winReplace.baml
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\App.baml
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\Attention.g.cs
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\frmCreateConnection.g.cs
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\frmMessageBox.g.cs
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\winAnalize.g.cs
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\winReplace.g.cs
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\App.g.cs
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\Base_MarkupCompile.cache
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\Base.g.resources
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\Base.Properties.Resources.resources
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MaxB\Desktop\TableAnalizer\Base\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\Base.exe
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\Base.pdb
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\bin\Debug\Base.exe
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\bin\Debug\Base.pdb
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\Attention.baml
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\frmCreateConnection.baml
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\frmMessageBox.baml
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\MainWindow.baml
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\winAnalize.baml
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\winReplace.baml
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\App.baml
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\Attention.g.cs
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\frmCreateConnection.g.cs
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\frmMessageBox.g.cs
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\winAnalize.g.cs
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\winReplace.g.cs
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\App.g.cs
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\Base_MarkupCompile.cache
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\Base.g.resources
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\Base.Properties.Resources.resources
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\GenerateResource.write.1.tlog

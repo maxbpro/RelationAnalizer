@@ -9,6 +9,7 @@ namespace Base
     class Analizer
     {
         private DataTable dTable = null;
+        //"массив" для нахождения ФЗ
         private List<List<String>> Ar = null;
         private int rowNum = -1;
         private int columnNum = -1;
@@ -30,6 +31,7 @@ namespace Base
             columnNum = dTable.Columns.Count;
         }
 
+        #region Проверка на вторую форму
         public bool IsTwoForm(List<int> keys)
         {
             bool flag = true;
@@ -90,7 +92,10 @@ namespace Base
                 return result;
             }
         }
-        
+
+        #endregion
+
+        #region Проверка на третью форму
         // Key is simple
         public bool IsThreeForm(int indexPrimaryKey)
         {
@@ -153,7 +158,9 @@ namespace Base
             else
                 return false;
         }
+        #endregion
 
+        #region Проверка на НФ Бойса-кодда
         public bool IsBoiseForm(int key1, int key2, int keyTotal)
         {
             bool flag = true;
@@ -175,6 +182,7 @@ namespace Base
             return flag;
         }
 
+        #endregion
 
         private bool IsFunctialDepended(int indexX, int indexY)
         {
