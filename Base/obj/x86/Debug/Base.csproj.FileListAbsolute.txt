@@ -208,3 +208,23 @@ C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnali
 C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\Base.Properties.Resources.resources
 C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\MaxB\Desktop\Малыхина, Курсовая пример\TableAnalizer\Base\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\Base.exe
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\Base.pdb
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\bin\Debug\Base.exe
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\bin\Debug\Base.pdb
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\frmCreateConnection.baml
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\MainWindow.baml
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\winAnalize.baml
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\winReplace.baml
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\App.baml
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\frmCreateConnection.g.cs
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\MainWindow.g.cs
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\winAnalize.g.cs
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\winReplace.g.cs
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\App.g.cs
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\Base_MarkupCompile.cache
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\Base.g.resources
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\Base.Properties.Resources.resources
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\MaxB\Documents\GitHub\RelationAnalizer\Base\obj\x86\Debug\GenerateResource.write.1.tlog

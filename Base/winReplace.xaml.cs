@@ -13,9 +13,6 @@ using System.Windows.Shapes;
 
 namespace Base
 {
-    /// <summary>
-    /// Interaction logic for winReplace.xaml
-    /// </summary>
     public partial class winReplace : Window
     {
         public winReplace(List<string> keys, string child, string keyParent)

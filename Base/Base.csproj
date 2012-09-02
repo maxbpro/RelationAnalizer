@@ -56,15 +56,10 @@
       <SubType>Designer</SubType>
     </ApplicationDefinition>
     <Compile Include="Analizer.cs" />
-    <Compile Include="Attention.xaml.cs">
-      <DependentUpon>Attention.xaml</DependentUpon>
-    </Compile>
     <Compile Include="frmCreateConnection.xaml.cs">
       <DependentUpon>frmCreateConnection.xaml</DependentUpon>
     </Compile>
-    <Compile Include="frmMessageBox.xaml.cs">
-      <DependentUpon>frmMessageBox.xaml</DependentUpon>
-    </Compile>
+    <Compile Include="TableInfoSingleton.cs" />
     <Compile Include="VistaGlassHelper.cs" />
     <Compile Include="winAnalize.xaml.cs">
       <DependentUpon>winAnalize.xaml</DependentUpon>
@@ -72,15 +67,7 @@
     <Compile Include="winReplace.xaml.cs">
       <DependentUpon>winReplace.xaml</DependentUpon>
     </Compile>
-    <Page Include="Attention.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
     <Page Include="frmCreateConnection.xaml">
-      <SubType>Designer</SubType>
-      <Generator>MSBuild:Compile</Generator>
-    </Page>
-    <Page Include="frmMessageBox.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -128,12 +115,6 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
     <AppDesigner Include="Properties\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="images\вопрос.jpeg" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="images\восклик.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

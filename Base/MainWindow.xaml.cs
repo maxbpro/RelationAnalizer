@@ -32,8 +32,8 @@ namespace Base
             frmCreateConnection winConnection = new frmCreateConnection(table);
             winConnection.ShowDialog();
             mainDataGrid.ItemsSource = table.DefaultView;
-            txtBDName.Text = BDName;
-            txtTableName.Text = TableName;
+            txtBDName.Text = TableInfoSingleton.getInstance().DataBaseName;
+            txtTableName.Text = TableInfoSingleton.getInstance().TableName;
         }
 
         void Open_Command(object sender, ExecutedRoutedEventArgs e)
@@ -74,8 +74,7 @@ namespace Base
 
         private void MainWindow_Closing(object sender, System.ComponentModel.CancelEventArgs e)
         {
-            frmMessageBox frm = new frmMessageBox("Вы хотите выйти из программы?");
-            if (frm.ShowDialog()==false)
+            if(MessageBox.Show("Вы хотите выйти из программы?", "Внимание", MessageBoxButton.YesNo, MessageBoxImage.Question)== MessageBoxResult.No)
             {
                 e.Cancel=true;
             }
